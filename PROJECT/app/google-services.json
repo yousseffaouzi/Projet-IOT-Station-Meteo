@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815189909513",
+    "project_id": "weather-station-573a4",
+    "storage_bucket": "weather-station-573a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815189909513:android:c2e622d4f7e15c6adad8d8",
+        "android_client_info": {
+          "package_name": "com.weather.stationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815189909513-k8do6nqn9or7e8mhii88arl3po7kttrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMcKEosbgN_MxeoCyG8X3QV22OiOQac7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815189909513-k8do6nqn9or7e8mhii88arl3po7kttrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

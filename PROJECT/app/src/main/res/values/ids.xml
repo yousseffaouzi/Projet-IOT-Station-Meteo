@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recyclerView1" type="id" />
+    <item name="rlMain" type="id" />
+    <item name="includedRecyclerLayout" type="id" />
+</resources>

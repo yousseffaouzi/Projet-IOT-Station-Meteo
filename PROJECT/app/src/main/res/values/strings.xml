@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherStation</string>
+    <string name="hour0">hour0</string>
+    <string name="_0t">0T</string>
+    <string name="_1t">1T</string>
+    <string name="hour2">hour2</string>
+    <string name="_2t">2T</string>
+    <string name="hour1">hour1</string>
+</resources>
